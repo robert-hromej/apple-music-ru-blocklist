@@ -1,0 +1,5 @@
+scripts/*.template.js linguist-generated=false
+scripts/block*.js linguist-generated=true
+scripts/unblock.js linguist-generated=true
+scripts/chunks/** linguist-generated=true
+data/** linguist-generated=true
